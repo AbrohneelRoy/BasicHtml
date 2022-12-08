@@ -1,0 +1,38 @@
+body {
+    background: 
+    linear-gradient(to right, #136a8a, #267871);
+  font-family: sans-serif;
+  display: flex;
+  min-height: 90vh;
+}
+.head {
+  color: white;
+  background: 
+    linear-gradient(to right, #267871, #136a8a);
+  margin: auto;
+  padding: 70px;
+  width: 30%;
+  border-radius: 30px;
+}
+
+.head p {
+  color: white;
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+.head input {
+  border: 2px solid;
+  border-width: 1px;
+  padding: 5px ;
+  border-radius: 15px;
+  width: 60%;
+}
+
+.head button {
+ border-radius: 18px;
+ width: 30%; 
+ padding: 3px 7px;
+ text
+
+}
